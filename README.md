@@ -1,8 +1,12 @@
 # rooster-teeth-assignment
-Front End Engineer At-Home Assignment
+##Front End Engineer At-Home Assignment
 
-# Words To Numbers
+## Words To Numbers
 https://codepen.io/jlgaleazzi/pen/QWKdEPa
 
-# Pangrams UI
+## Pangrams UI
 https://codepen.io/jlgaleazzi/pen/YzGNpzE
+
+## React Dog Breeds.
+Dowload repo and follow instructions 
+https://github.com/jlgaleazzi/rooster-teeth-assignment/tree/main/react-dog-breeds
