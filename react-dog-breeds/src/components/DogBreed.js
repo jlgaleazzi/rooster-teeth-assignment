@@ -35,9 +35,11 @@ const DogBreed = (props) => {
     const [pict, setPict] = useState('');
     
     useEffect(()=> {
+        if (pict === '') {
         fetch(`https://dog.ceo/api/breed/${breedName}/images/random`)
         .then(res => res.json())
         .then(data => setPict(data.message));
+        }
     }, [breedName])
 
     return (
